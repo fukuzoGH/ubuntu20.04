@@ -11,7 +11,7 @@ $ apt -y install apache2
 #
 # 制御
 
-#開始
+開始
 $ systemctl start apache2
 
 #停止
