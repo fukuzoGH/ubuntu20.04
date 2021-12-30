@@ -8,9 +8,17 @@ $ apt -y install apache2
 
 # バージョン表示
 
+#
 # 制御
+
+#
 $ systemctl start apache2
+
+#
 $ systemctl stop apache2
+
+#
 $ systemctl restart apache2
 
+#
 $ systemctl status apache2
