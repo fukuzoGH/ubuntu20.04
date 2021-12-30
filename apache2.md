@@ -14,11 +14,11 @@ $ apt -y install apache2
 開始
 $ systemctl start apache2
 
-#停止
+停止
 $ systemctl stop apache2
 
-#再起動
+再起動
 $ systemctl restart apache2
 
-#状態
+状態
 $ systemctl status apache2
